@@ -23,4 +23,3 @@ class Restaurant extends Component {
 };
 
 export default Restaurant;
-© 2020 GitHub, Inc.
